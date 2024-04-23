@@ -13,6 +13,8 @@ public:
         cout << "Jurusan : " << jurusan << endl;
     }
 };
+
+class Matakuliah {};
 int main()
 {
     
